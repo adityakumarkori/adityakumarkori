@@ -103,16 +103,16 @@
     <rect width="470" height="125" rx="6" fill="#020408" stroke="#1e293b" stroke-width="1.5" />
     <!-- Window Bar -->
     <path d="M 0 5 A 5 5 0 0 1 5 0 L 465 0 A 5 5 0 0 1 470 5 L 470 20 L 0 20 Z" fill="#0b0f19" />
-    <text x="15" y="13" class="text" font-size="9" fill="#475569">dev-adityak@production-node-1:~</text>
+    <text x="15" y="13" class="text" font-size="9" fill="#475569">adityakumarkori@production-node-1:~</text>
     
     <!-- Code / Commands Executed -->
     <g transform="translate(15, 38)">
-      <text x="0" y="0" class="text term-prompt">dev-adityak@kernel:~$ <tspan class="term-txt">kafka-console-consumer --topic chat-events</tspan></text>
+      <text x="0" y="0" class="text term-prompt">adityakumarkori@kernel:~$ <tspan class="term-txt">kafka-console-consumer --topic chat-events</tspan></text>
       
       <text x="0" y="18" class="text term-txt" fill="#94a3b8"> [PARTITION 0] OFFSET 10452 - Payload: {"status":"sent", "latency":"2.4ms"}</text>
       <text x="0" y="32" class="text term-txt" fill="#94a3b8"> [PARTITION 1] OFFSET 98512 - Payload: {"match":"driver_32", "radius":"150m"}</text>
       
-      <text x="0" y="52" class="text term-prompt">dev-adityak@kernel:~$ <tspan class="term-txt" fill="#38bdf8">sysctl --get-throughput</tspan></text>
+      <text x="0" y="52" class="text term-prompt">adityakumarkori@kernel:~$ <tspan class="term-txt" fill="#38bdf8">sysctl --get-throughput</tspan></text>
       <text x="0" y="68" class="text term-meta"> ⚡ CLUSTER STATUS: HEALTHY | ACTIVE TRANSACTIONS: 148,251 req/sec</text>
     </g>
   </g>
