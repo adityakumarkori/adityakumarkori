@@ -3,7 +3,6 @@ name: Generate contribution snake
 on:
   schedule:
     - cron: "30 2 * * 0"  # Weekly Sunday 8:00 AM IST (2:30 AM UTC)
-    - cron: "13 19 1 9 *"  # Temporary: today Sep 01 19:13 UTC (Sep 02 00:43 IST) ~10 min from now — one-time, remove after verification
   workflow_dispatch:
   push:
     branches: [ "main" ]
