@@ -183,12 +183,12 @@ Here is a look at the architecture specifications of my core systems.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-<!-- 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p> -->
 
 ---
 
