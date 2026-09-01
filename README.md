@@ -204,11 +204,14 @@ Here is a look at the architecture specifications of my core systems.
 
 ## 🎯 2026 Goals
 
-- [ ] Prepare for **AWS Certified Developer – Associate** certification exam.
-- [ ] Prepare for **Oracle Certified Professional: Java SE Programmer** certification exam.
-- [ ] Master Kubernetes cluster scaling and Service Mesh configurations.
-- [ ] Build a lightweight, distributed KV-store using Raft consensus protocol from scratch.
-- [ ] Complete the AWS Certified Solutions Architect Professional exam.
+- [ ] Build and ship **production-grade backend systems** with Java, Spring Boot, and FastAPI.
+- [ ] Deepen expertise in **distributed systems, system design, and scalable architectures**.
+- [ ] Master **PostgreSQL, Redis, Kafka, and database optimization** for high-performance applications.
+- [ ] Build and deploy **cloud-native applications on AWS** using Docker and Kubernetes.
+- [ ] Contribute to **open-source projects** and build a stronger presence in the developer community.
+- [ ] Design and ship **at least one production-ready backend project** from architecture to deployment.
+- [ ] Strengthen expertise in **microservices, event-driven architecture, caching, and fault tolerance**.
+- [ ] Continue growing as a **Senior Backend Engineer** by solving complex real-world engineering problems.
 
 ---
 
@@ -231,4 +234,4 @@ Here is a look at the architecture specifications of my core systems.
 
 <p align="center">
   <blockquote>"Code should not only work today—it should scale tomorrow."</blockquote>
-</p>
+
