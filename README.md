@@ -92,7 +92,7 @@ I design system architectures with a strong emphasis on decoupling, caching effi
 
 Here is a look at the architecture specifications of my core systems.
 
-### 🚗 [AutoRickshaw Platform](https://github.com/dev-adityak/AutoRickshaw)
+### 🚗 [AutoRickshaw Platform](https://github.com/adityakumarkori/auto-rickshaw)
 > **An enterprise-grade, ride-hailing system designed for low-latency matching and high throughput.**
 >
 > * 📍 **Redis Geospatial Search:** Live vehicle tracking and real-time geospatial indexing.
@@ -104,7 +104,7 @@ Here is a look at the architecture specifications of my core systems.
 
 ---
 
-### 💬 [Convo Chat Application](https://github.com/dev-adityak/Convo)
+### 💬 [Convo Chat Application](https://github.com/adityakumarkori/react_chat_app)
 > **A secure, highly concurrent realtime messaging backend architecture.**
 >
 > * 🔌 **WebSocket Engine:** Full-duplex messaging with low connection overhead.
@@ -116,7 +116,7 @@ Here is a look at the architecture specifications of my core systems.
 
 ---
 
-### 🏥 [Clinic Platform](https://github.com/dev-adityak/ClinicHub)
+### 🏥 [Clinic Platform](https://github.com/adityakumarkori/auraclinic)
 > **An SEO-first medical scheduling and administrative workflow engine.**
 >
 > * 📅 **Appointment Scheduling:** Custom scheduling state-machine preventing booking collisions.
@@ -130,12 +130,12 @@ Here is a look at the architecture specifications of my core systems.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-adityak&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-adityak&layout=compact&theme=tokyonight&hide_border=true" alt="Aditya's Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakumarkori&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarkori&layout=compact&theme=tokyonight&hide_border=true" alt="Aditya's Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-adityak&theme=tokyonight&hide_border=true" alt="Aditya's Streak Stats" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumarkori&theme=tokyonight&hide_border=true" alt="Aditya's Streak Stats" />
 </p>
 
 ---
@@ -143,7 +143,7 @@ Here is a look at the architecture specifications of my core systems.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-adityak&theme=tokyo-night&hide_border=true" alt="Aditya's Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarkori&theme=tokyo-night&hide_border=true" alt="Aditya's Activity Graph" />
 </p>
 
 ---
@@ -161,13 +161,21 @@ Here is a look at the architecture specifications of my core systems.
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/dev-adityak?tab=achievements&achievement=pull-shark" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark Badge" />
+  <a href="https://github.com/adityakumarkori?tab=achievements&achievement=quickdraw" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw Badge" />
   </a>
+  <a href="https://github.com/adityakumarkori?tab=achievements&achievement=pull-shark" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark Badge x2" style="margin-left: 8px;" />
+  </a>
+  <a href="https://github.com/adityakumarkori?tab=achievements&achievement=yolo" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO Badge" style="margin-left: 8px;" />
+  </a>
+  <br />
+  <sub><b>Quickdraw</b> · <b>Pull Shark ×2</b> (16 merged · Bronze Oct 15, 2025) · <b>YOLO</b> — <a href="https://github.com/adityakumarkori?tab=achievements">View all achievements</a></sub>
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-adityak&theme=algolia&margin-w=15&no-frame=true" alt="Aditya's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakumarkori&theme=algolia&margin-w=15&no-frame=true" alt="Aditya's Trophies" />
 </p> -->
 
 ---
@@ -175,23 +183,26 @@ Here is a look at the architecture specifications of my core systems.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityakumarkori/adityakumarkori/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-<!-- 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/dev-adityak/dev-adityak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p> -->
 
 ---
 
 ## 💼 Experience & Timeline
 
 ```markdown
-┌── [2024 - Present]  [Job Title] @ [Company/Organization Name]
-│   └── Focused on Spring Boot microservices, high-traffic APIs, and database replication patterns.
+┌── [2026 - Present]  Senior Backend Developer @ Arkcabin
+│   └── Building scalable backend systems, APIs, and distributed services.
 │
-├── [2023 - 2024]     [Job Title / Intern] @ [Previous Company Name]
-│   └── Designed database schemas, automated test suites, and dockerized modular services.
+├── [2024 - 2026]     Web Developer @ Codeholic IT Service Pvt. Ltd.
+│   └── Developed web applications, backend services, and database-driven solutions.
+│
+├── [2024 - 2026]     Master of Engineering (M.E.) - Computer Science & Engineering
+│   └── Advanced studies in computer science, software engineering, and distributed systems.
 │
 └── [2020 - 2024]     B.Tech in Computer Science & Engineering
     └── Graduated with honors, focusing on distributed systems and database internals.
@@ -212,16 +223,16 @@ Here is a look at the architecture specifications of my core systems.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dev-adityak" target="_blank">
+  <a href="https://linkedin.com/in/aditya-kori" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityakumarkori06@gmail.com" target="_blank">
+  <a href="mailto:dev.adityakori@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  <a href="https://twitter.com/dev_adityak" target="_blank">
+  <a href="https://twitter.com/adityakumarkori" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter" />
   </a>
-  <a href="https://discord.com/users/dev-adityak" target="_blank">
+  <a href="https://discord.com/users/adityakumarkori" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0F172A?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
 </p>
