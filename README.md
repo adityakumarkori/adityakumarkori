@@ -224,8 +224,8 @@ Here is a look at the architecture specifications of my core systems.
   <a href="mailto:dev.adityakori@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  <a href="https://twitter.com/adityakumarkori" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter" />
+  <a href="https://instagram.com/adityakumarkori" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/adityakumarkori" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0F172A?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
