@@ -140,14 +140,6 @@ Here is a look at the architecture specifications of my core systems.
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarkori&theme=tokyo-night&hide_border=true" alt="Aditya's Activity Graph" />
-</p>
-
----
-
 ## 💡 CodeChef Stats
 
 <p align="center">
