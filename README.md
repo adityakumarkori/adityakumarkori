@@ -153,6 +153,9 @@ Here is a look at the architecture specifications of my core systems.
 ## 🏆 Achievements
 
 <p align="center">
+  <a href="https://github.com/adityakumarkori?tab=achievements&achievement=pair-extraordinaire" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110" alt="Pair Extraordinaire Badge" style="margin-left: 8px;" />
+  </a>
   <a href="https://github.com/adityakumarkori?tab=achievements&achievement=quickdraw" target="_blank">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw Badge" />
   </a>
@@ -163,7 +166,7 @@ Here is a look at the architecture specifications of my core systems.
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO Badge" style="margin-left: 8px;" />
   </a>
   <br />
-  <sub><b>Quickdraw</b> · <b>Pull Shark ×2</b> (16 merged · Bronze Oct 15, 2025) · <b>YOLO</b> — <a href="https://github.com/adityakumarkori?tab=achievements">View all achievements</a></sub>
+  <sub><b>Quickdraw</b> · <b>Pull Shark ×2</b> (16 merged · Bronze Oct 15, 2025) · <b>YOLO</b> · <b>Pair Extraordinaire</b> (Sep 4, auto-rickshaw#1) — <a href="https://github.com/adityakumarkori?tab=achievements">View all achievements</a></sub>
 </p>
 
 <!-- <p align="center">
